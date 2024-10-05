@@ -13,6 +13,7 @@ Este projeto faz parte de meus estudos, é o meu projeto primeiro manipulando JS
 
 ## Resultado
 
+Acesse aqui https://lucascollazo.github.io/jw-galeria-json/
 
 https://github.com/user-attachments/assets/cd5152b9-728a-4595-8cb4-82e51351c91b
 
