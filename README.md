@@ -4,7 +4,7 @@ Olá seja muito bem vindo(a)
 
 ## Descrição
 
-Este projeto faz parte de meus estudos, é o meu projeto primeiro manipulando JSON com Fetch em Javascript.
+Este projeto faz parte de meus estudos, é o meu primeiro projeto manipulando JSON com Fetch em Javascript.
 
 ## Detalhes
 
