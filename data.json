@@ -1,0 +1,30 @@
+{
+    "johnwick":{
+        "title":"John Wick",
+        "year":"2014",
+        "description":"John Wick, um ex-assassino profissional, tenta viver uma vida tranquila após a morte de sua esposa. Quando o filho de um mafioso russo rouba seu carro e mata seu cachorro, John embarca em uma missão de vingança. Isso o força a retornar ao submundo do crime.",
+        "critic":"86%",
+        "picture": "assets/johnwick.png"
+    },
+    "johnwick2":{
+        "title":"John Wick: Chapter 2",
+        "year":"2017",
+        "description":"John é forçado a voltar ao mundo do crime devido a uma dívida antiga. Ele é perseguido por assassinos de todo o mundo após recusar um favor relacionado a essa dívida, e luta para sobreviver.",
+        "critic":"89%",
+        "picture": "assets/johnwick2.png"
+    },
+    "johnwick3":{
+        "title":"John Wick: Chapter 3 - Parabellum",
+        "year":"2019",
+        "description":"John é declarado 'excomungado' após violar uma regra da Alta Cúpula. Ele precisa lutar para sobreviver enquanto uma recompensa de 14 milhões de dólares por sua cabeça atrai assassinos do mundo inteiro.",
+        "critic":"89%",
+        "picture": "assets/johnwick3.png"
+    },
+    "johnwick4":{
+        "title":"John Wick: Chapter 4",
+        "year":"2023",
+        "description":"John é declarado 'excomungado' após violar uma regra da Alta Cúpula. Ele precisa lutar para sobreviver enquanto uma recompensa de 14 milhões de dólares por sua cabeça atrai assassinos do mundo inteiro.",
+        "critic":"94%",
+        "picture": "assets/johnwick4.png"
+    }
+}
