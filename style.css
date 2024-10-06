@@ -121,4 +121,17 @@ body{
     color: #000;
 }
 
+@media screen and (width < 420px) {
+    .container-content img{
+        width: 312px;
+        height: 312px;
+        object-fit: cover;
+        object-position: top;
+    }
+    
+    .container-card{
+        width: 80px;
+    }
+
+}
 
