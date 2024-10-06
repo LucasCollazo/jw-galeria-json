@@ -121,17 +121,21 @@ body{
     color: #000;
 }
 
-@media screen and (width: 420px) {
-    .container-content img{
+@media  screen and (width: 450px){
+    .container, .container-content img{
         width: 312px;
         height: 312px;
-        object-fit: cover;
-        object-position: top;
     }
-    
-    .container-card{
+
+    .container-content figcaption, .container-content header, .footer p, .container-card figcaption {
+        font-size: 0.7rem;
+    }
+
+    .icons{
+        font-size: 1rem;
+    }
+
+    .container-card, .container-card img{
         width: 80px;
     }
-
 }
-
