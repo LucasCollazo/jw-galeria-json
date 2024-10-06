@@ -121,7 +121,7 @@ body{
     color: #000;
 }
 
-@media  screen and (min-width: 450px){
+@media  screen and (max-width: 450px){
     .container, .container-content img{
         width: 312px;
         height: 312px;
